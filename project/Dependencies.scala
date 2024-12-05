@@ -9,7 +9,7 @@ object Dependencies {
   val ByteBuddyVersion      = "1.14.2"
   val CirceVersion          = "0.14.5"
   val CirceYamlVersion      = "0.14.2"
-  val Http4sVersion         = "0.23.18"
+  val Http4sVersion         = "0.23.30"
 
   val GoogleAutoServiceVersion        = "1.0.1"
   val LogbackVersion                  = "1.4.6"
